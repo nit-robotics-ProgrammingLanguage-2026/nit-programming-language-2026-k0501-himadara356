@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0501"
+secret: "nmm2dsr0"
+owner:
+  username: "himadara356"
+  id: 341252889
+  accepted_at: "2026-11-02T02:50:58Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0501-range_check"
+  branch: "main"
