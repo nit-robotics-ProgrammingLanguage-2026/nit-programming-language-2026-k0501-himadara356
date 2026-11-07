@@ -2,9 +2,10 @@
 
 int main(void)
 {
-    int input;
+    int input,x;
     scanf("%d", &input);
-    if (0 /* TODO: ここに条件式を書く */)
+    x = input;
+    if (0<=x&&x<10)
     {
         printf("OK");
     }
